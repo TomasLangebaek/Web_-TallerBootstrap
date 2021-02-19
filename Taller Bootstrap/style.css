@@ -1,0 +1,47 @@
+.grey {
+  background-color: rgb(242, 242, 242);
+  height: 311px;
+}
+.white {
+  background-color: rgb(252, 252, 252);
+  height: 311px;
+}
+.brown {
+  background-color: rgb(195, 145, 130);
+}
+.darkbrown {
+  background-color: rgb(91, 73, 70);
+  color: rgb(255, 255, 255);
+}
+.orange {
+  background-color: rgb(249, 154, 62);
+}
+.blue {
+  background-color: rgb(0, 162, 162);
+}
+.red {
+  background-color: rgb(197, 105, 122);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  color: rgb(0, 0, 0);
+}
+.dysplay-4 {
+  color: rgb(255, 255, 255);
+}
+.image {
+  padding: 0;
+  height: 80px;
+}
+.row {
+  overflow: hidden;
+}
+#sidebar {
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
